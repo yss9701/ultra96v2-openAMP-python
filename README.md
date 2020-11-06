@@ -5,7 +5,7 @@ The development tools are vivado2019.1 and petalinux2019.1,
 
 It implements the transfer of information from the A53 kernel to the R5 kernel, and we can easily call it by python.
 
-The python interface is encapsulated in SWIG.
+The python interface is encapsulated in SWIG, the demo is in python-amp/pyamp.ipynb.
 
 Reference: xilinx ug1186
 
