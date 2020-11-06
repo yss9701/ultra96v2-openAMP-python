@@ -1,0 +1,6 @@
+指针作为函数参数：typemaps.i
+数组：carrays.i
+字符串：cstring.c
+全局变量：cvar，inline在接口文件中插入c/c++代码
+常量和枚举：#define enum %constant
+结构体和类是以Python类包装的
